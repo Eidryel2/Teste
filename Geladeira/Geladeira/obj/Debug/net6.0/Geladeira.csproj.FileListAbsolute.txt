@@ -1,0 +1,14 @@
+C:\Users\adrie\Music\RDINEw\Geladeira\Geladeira\Geladeira\bin\Debug\net6.0\Geladeira.exe
+C:\Users\adrie\Music\RDINEw\Geladeira\Geladeira\Geladeira\bin\Debug\net6.0\Geladeira.deps.json
+C:\Users\adrie\Music\RDINEw\Geladeira\Geladeira\Geladeira\bin\Debug\net6.0\Geladeira.runtimeconfig.json
+C:\Users\adrie\Music\RDINEw\Geladeira\Geladeira\Geladeira\bin\Debug\net6.0\Geladeira.dll
+C:\Users\adrie\Music\RDINEw\Geladeira\Geladeira\Geladeira\bin\Debug\net6.0\Geladeira.pdb
+C:\Users\adrie\Music\RDINEw\Geladeira\Geladeira\Geladeira\obj\Debug\net6.0\Geladeira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\Music\RDINEw\Geladeira\Geladeira\Geladeira\obj\Debug\net6.0\Geladeira.AssemblyInfoInputs.cache
+C:\Users\adrie\Music\RDINEw\Geladeira\Geladeira\Geladeira\obj\Debug\net6.0\Geladeira.AssemblyInfo.cs
+C:\Users\adrie\Music\RDINEw\Geladeira\Geladeira\Geladeira\obj\Debug\net6.0\Geladeira.csproj.CoreCompileInputs.cache
+C:\Users\adrie\Music\RDINEw\Geladeira\Geladeira\Geladeira\obj\Debug\net6.0\Geladeira.dll
+C:\Users\adrie\Music\RDINEw\Geladeira\Geladeira\Geladeira\obj\Debug\net6.0\refint\Geladeira.dll
+C:\Users\adrie\Music\RDINEw\Geladeira\Geladeira\Geladeira\obj\Debug\net6.0\Geladeira.pdb
+C:\Users\adrie\Music\RDINEw\Geladeira\Geladeira\Geladeira\obj\Debug\net6.0\Geladeira.genruntimeconfig.cache
+C:\Users\adrie\Music\RDINEw\Geladeira\Geladeira\Geladeira\obj\Debug\net6.0\ref\Geladeira.dll
